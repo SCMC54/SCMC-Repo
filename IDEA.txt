@@ -10,6 +10,8 @@ Farming
 Exploration
 2D
 Top-Down
+Piano Themed Music
+Large world (Multiple Worlds?)
 
 
 WHY:
