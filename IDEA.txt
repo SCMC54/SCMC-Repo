@@ -5,6 +5,9 @@ WHAT WHY HOW
 
 WHAT:
 Singleplayer
+Sandbox
+Farming
+
 
 
 WHY:
