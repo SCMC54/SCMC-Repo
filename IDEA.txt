@@ -7,11 +7,15 @@ WHAT:
 Singleplayer
 Sandbox
 Farming
-
+Exploration
+2D
+Top-Down
 
 
 WHY:
 Entertainment
+Calming
+Creativity
 
 HOW:
 Aiming for Python (C# Maybe ; as a last option)
